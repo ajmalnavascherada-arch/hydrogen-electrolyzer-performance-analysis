@@ -1,0 +1,26 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Generated Figures
+figures/*.png
+figures/*.jpg
+figures/*.pdf
+
+# Reports
+report/*.pdf
+report/*.docx
+
+# OS
+.DS_Store
+Thumbs.db
