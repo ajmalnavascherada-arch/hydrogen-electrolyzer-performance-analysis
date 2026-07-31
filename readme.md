@@ -338,7 +338,7 @@ Otto von Guericke University Magdeburg
 
 📧 ajmalnavascherada@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/ajmalnavascherada
+🔗 LinkedIn: https://www.linkedin.com/in/ajmal-navas-cherada-224151171
 
 💻 GitHub: https://github.com/ajmalnavascherada-arch
 
